@@ -1884,7 +1884,7 @@
     ]
   },
   {
-    "name": "Aniyomi: HiAnime",
+    "name": "Aniyomi: HiAnime2",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.zoro",
     "apk": "aniyomi-en.zoro-v14.50.apk",
     "lang": "en",
@@ -1895,7 +1895,7 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "HiAnime",
+        "name": "HiAnime2",
         "lang": "en",
         "id": "6706411382606718900",
         "baseUrl": "https://hianime.bz",
